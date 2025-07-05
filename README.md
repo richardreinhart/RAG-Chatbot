@@ -10,7 +10,7 @@ git clone https://github.com/richardreinhart/RAG-Chatbot.git
 
 cd RAG-Chatbot
 
-## Create a virtual environment (Optional but recommend)
+## Create a virtual environment (Optional but recommended)
 python -m venv .venv
 
 .venv\Scripts\activate   (Windows)
