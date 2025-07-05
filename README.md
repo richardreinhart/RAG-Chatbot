@@ -6,6 +6,7 @@ I used streamlit for the chatbot interface, all-MiniLM-L6-v2 for embedding model
 # Getting Started 
 ## Clone the repository
 git clone https://github.com/richardreinhart/RAG-Chatbot.git
+
 cd RAG-Chatbot
 
 ## Create a virtual environment (Optional but recommend)
