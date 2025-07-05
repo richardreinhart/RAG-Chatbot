@@ -5,13 +5,14 @@ I used streamlit for the chatbot interface, sentence-transformers for embedding 
 
 ## Getting Started
 
-# Clone the repository
+## Clone the repository
 git clone https://github.com/richardreinhart/RAG-Chatbot.git
 cd RAG-Chatbot
 
-# Create a virtual environment (Optional but recommend)
+## Create a virtual environment (Optional but recommend)
 python -m venv .venv
+
 .venv\Scripts\activate  # On Windows
 
-# Install dependencies
+## Install dependencies
 pip install -r requirements.txt
