@@ -17,5 +17,8 @@ python -m venv .venv
 
 source .venv/bin/activate   (macOS/Linux)
 
-## Install dependencies
+## Install dependencies and run the program
 pip install -r requirements.txt
+
+streamlit run chatbot.py
+
