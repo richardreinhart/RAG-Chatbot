@@ -1,6 +1,7 @@
 # RAG-Chatbot
 
 This is my personal project to create simple RAG system for Chatbot.
+
 I used streamlit for the chatbot interface, all-MiniLM-L6-v2 for embedding model, faiss for vector DB, and gemini-2.0-flash for generator.
 
 # Getting Started 
