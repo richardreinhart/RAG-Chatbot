@@ -1,0 +1,8 @@
+dotenv==0.9.9
+google==3.0.0
+google-generativeai==0.8.5
+streamlit==1.46.1
+faiss-cpu==1.11.0
+numpy==2.2.6
+transformers==4.53.0
+sentence-transformers==5.0.0
