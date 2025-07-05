@@ -32,10 +32,6 @@ def response_generator(prompt):
 
     response_container.markdown(full_response)
 
-    # ✅ Save conversation turn
-    # st.session_state.messages.append({"role": "user", "content": prompt})
-    # st.session_state.messages.append({"role": "assistant", "content": full_response})
-
     return full_response
 
 
